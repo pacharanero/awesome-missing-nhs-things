@@ -1,8 +1,11 @@
 # awesome-missing-nhs-things
 a unawesome list of missing NHS and Social Care interfaces, services, registers, and data sources.
 
-* 'Gravatar' for patient photos [link](https://discourse.digitalhealth.net/t/photos-of-patients-in-records-continuing-the-discussion/7190/5)
-* 'KeyBase' for clinical staff 
+* 'Gravatar' for patient photos [link](https://github.com/pacharanero/awesome-missing-nhs-things/issues/1)
+* 'KeyBase' for clinical staff
+* comprehensive clinical calculation API
+* GMC number API lookup
+* NMC number API lookup
 
 # License
 Creative Commons CC-BY-SA 3.0
