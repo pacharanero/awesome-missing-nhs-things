@@ -30,7 +30,16 @@
 * NHS Common User Interface (or the good bits of it) implemented as a CSS-class-based web UI framework that can be dropped into new or existing web applications, lending them an instant UI which is ready clinically-, usability- and accessibility-tested.
 
 ## Data gathering and Intelligence
-* NHS PC Benchmarking - a downloadable software agent which benchmarks the PC being used and reports back to a central authority via web on: installed OS, patch level, RAM, CPU, disk, installed software, network bandwidth, and other information that would help national IT resources to be distributed in the most effective way possible.
+* NHS PC Benchmarking - a downloadable open source software agent which benchmarks the PC being used and reports back to a central authority via web on: installed OS, patch level, RAM, CPU, disk, installed software, network bandwidth, and other information that would help national IT resources to be distributed in the most effective way possible.
+
+## Open Source NHS Staff Online Training platform
+* NHS staff undergo regular (usually annual) retraining on topics such as:
+** Child and Adult Safeguarding
+** Infection Control and Hand Hygiene
+** Lifting and Handling
+** Information Governance and Computer Security
+* At present this is usually provided through a series of [proprietary online training modules](https://www.bluestreamacademy.com/), [often of very low quality](https://twitter.com/marcus_baw/status/1113058212150829059), and provided by a number of private companies at at least moderate taxpayer expense. The *content* for the platforms has quite often been originally provided (in some convoluted way eg a 'partnership') by NHS staff themselves.
+* The requirement for a simple, high-quality, modern e-Learning platform for the NHS would be relatively easy to fulfil compared to some of the other awesomely-missing things on this list, and would save considerable money.
 
 -----
 
