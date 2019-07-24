@@ -21,10 +21,11 @@
 * comprehensive, clinically assured, clinical calculation API
 * comprehensive, clinically assured, clinical decision support API
 
-
 ## NHS Platform Tools
 * Open source cross-platform Identity Agent (for NHS SmartCard use)
 * Full implementation of the NHS Spine 'Warranted Environment' in open source (this was the aim of the NHSbuntu/NHoS project)
+* Client libraries and proper documentation for all Spine services.
+* REST wrapper for all Spine services, doing the hard work to make it simple. The madness of CDA, HL7 and MESH needs to be hidden from view.
 
 ## Frameworks and Libraries
 * NHS Common User Interface (or the good bits of it) implemented as a CSS-class-based web UI framework that can be dropped into new or existing web applications, lending them an instant UI which is ready clinically-, usability- and accessibility-tested.
@@ -38,11 +39,11 @@
   * Infection Control and Hand Hygiene
   * Lifting and Handling
   * Information Governance and Computer Security
-* At present this is usually provided through a series of [proprietary online training modules](https://www.bluestreamacademy.com/), often of [very low quality](https://twitter.com/marcus_baw/status/1113058212150829059), and provided by a number of private companies at at least moderate taxpayer expense. The *content* for the platforms has quite often been originally provided (in some convoluted way eg a 'partnership') by NHS staff themselves.
+* At present this is usually provided through a series of [proprietary online training modules](https://www.bluestreamacademy.com/), often of [very low quality](https://twitter.com/marcus_baw/status/1113058212150829059), and provided by a number of private companies at at least moderate taxpayer expense. The *content* for the platforms has quite often been originally provided (in some convoluted way eg a 'partnership') by NHS staff themselves and therefore paid for by UK taxes.
 * The requirement for a simple, high-quality, modern e-Learning platform for the NHS would be relatively easy to fulfil compared to some of the other awesomely-missing things on this list, and would save considerable money.
 
 -----
 
-# This repository and list is licensed under
+###small  This repository and list is licensed under
 Creative Commons CC-BY-SA 3.0
 https://creativecommons.org/licenses/by-sa/3.0/
