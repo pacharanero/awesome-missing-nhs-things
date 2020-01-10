@@ -44,6 +44,4 @@
 
 -----
 
-###small  This repository and list is licensed under
-Creative Commons CC-BY-SA 3.0
-https://creativecommons.org/licenses/by-sa/3.0/
+###### This repository and list is licensed under Creative Commons CC-BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
