@@ -11,20 +11,40 @@
 * REST API wrapper over the NHS E-Referral Service
 * REST API wrapper over the NHS E-Prescriptions Service
 
-## Registers
-* GMC number API lookup
-* NMC number API lookup
+## Staff Registers
+* GMC Register API - get information about practicing doctors programmatically, including information about specialist status. Real-time confirmation of current valid registration.
+* NMC number API - get information about practicing nurses and midwives programmatically
+* BCAP Register (counselling and psychotherapy) API
+* Physios and other Musculoskeletal Therapists Register API
+* Social worker registration API
+* Speech and language therapists API
+
+## Locations Registers
+* ODS Code API (this now exists following work by Matt Stibbs and Tony Yates to build openODS)
 * GP Practices register API
 * Pharmacies register API
+* Independent care providers API
 
-## Clinical Tools
-* comprehensive, clinically assured, clinical calculation API
+## Health 'MapIt'
+* MapIt by MySociety simplifies the use of geospatial information and enables easy creation of map layers or overlays reflecting open data and administrative boundaries
+* Layer: CCG Boundaries
+* Layer: GP Practice Boundaries
+* Layer: Mapping of open data about ‘X’ health condition
+* Layer: Location of GP practices
+* Layer: Location of Hospitals
+* Location of Urgent Care Centres
+
+## Clinical Calculation APIs
+* comprehensive, clinically assured, clinical calculation APIs
+* there are thousands of clinical assessment tools which we use to help make clinical decisions
+* these should all be available behind validated, clinically-assured APIs
+* this would improve the availability of these tools
 * comprehensive, clinically assured, clinical decision support API
 
 ## NHS Platform Tools
-* Open source cross-platform Identity Agent (for NHS SmartCard use)
+* Open source cross-platform Identity Agent (for NHS SmartCard use) as interim step until smartcards are deprecated
 * Full implementation of the NHS Spine 'Warranted Environment' in open source (this was the aim of the NHSbuntu/NHoS project)
-* Client libraries and proper documentation for all Spine services.
+* Client libraries and proper documentation for all Spine services (this work is in progress [here](https://digital.nhs.uk/developer))
 * REST wrapper for all Spine services, doing the hard work to make it simple. The madness of CDA, HL7 and MESH needs to be hidden from view.
 
 ## Frameworks and Libraries
