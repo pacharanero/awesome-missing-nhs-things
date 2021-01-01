@@ -10,6 +10,7 @@
 * [National Consent Platform]()
 * REST API wrapper over the NHS E-Referral Service
 * REST API wrapper over the NHS E-Prescriptions Service
+* National Poisons Information Service ([TOXBASE](https://www.toxbase.org/)) as a REST API to allow embedding into clinical applications.
 
 ## Staff Registers
 * GMC Register API - get information about practicing doctors programmatically, including information about specialist status. Real-time confirmation of current valid registration.
@@ -18,6 +19,9 @@
 * Physios and other Musculoskeletal Therapists Register API
 * Social worker registration API
 * Speech and language therapists API
+
+## Internal information services in hospital trusts, primary care and other care settings.
+* Ubiquitous, versatile e-Rostering platform for staff rotas, with rota and on-call lists available via API to allow other applications to be aware of the current on-call clinician for a speciality, with appropriate fall-backs. Having that information available as an API is an important upstream dependency for a lot of useful services in automatic referral, time-saving features in EPRs (eg automatic selection of the correct consultant team for test ordering), and bleep replacement.
 
 ## Locations Registers
 * ODS Code API (this now exists following work by Matt Stibbs and Tony Yates to build openODS)
