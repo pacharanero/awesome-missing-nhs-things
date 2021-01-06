@@ -72,6 +72,10 @@
 * NHS Common User Interface (or the good bits of it) implemented as a CSS-class-based web UI framework that can be dropped into new or existing web applications, lending them an instant UI which is ready clinically-, usability- and accessibility-tested.
 * [The NHS Frontend Framework](https://github.com/nhsuk/nhsuk-frontend) admirably shows how this works in practice, but their focus is in creating nice, accessible, NHS websites. We need to take this principle and start sharing the UI components of good clinical software.
 
+## Terminology collections
+* SNOMED-CT has been chosen as the standardising terminology to be used across all of the NHS.
+* Open Source Terminology servers for SNOMED-CT do exist: https://github.com/wardle/hermes
+* However this is only part of the story. To use codes to do useful things you will need access to **open, shareable, versioned, curated, and clinically-validated** lists of codes which are suitable for identifying patients with, for example *hypertension*, or any other clinical condition. These conditions may be recorded in an electronic health record using a number of different SNOMED-CT codes, so you need a list of those codes that (for a specific use-case) should indicate presence of the condition you are interested in. Lists of codes are not currently chared in any specific format. The [openSAFELY](https://codelists.opensafely.org/) project is addressing this by developing and sharing open codelists, but more work is needed in order to have a full suite of open codelists.
 
 ## Data gathering and Intelligence
 * NHS PC Benchmarking - a downloadable open source software agent which benchmarks the PC being used and reports back to a central authority via web on: installed OS, patch level, RAM, CPU, disk, installed software, network bandwidth, and other information that would help national IT resources to be distributed in the most effective way possible.
