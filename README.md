@@ -31,6 +31,7 @@
 
 ## Locations Registers
 * ODS Code API (this now exists following work by Matt Stibbs and Tony Yates to build openODS)
+  * See also [wardle/clods](https://github.com/wardle/clods) "A web service and set of tools for manipulating UK health and care organisational data together with supporting data such as geographical datasets from the ONS (e.g. the NHS postcode directory)"
 * GP Practices register API
 * Pharmacies register API
 * Independent care providers API
