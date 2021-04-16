@@ -11,6 +11,7 @@
 * REST API wrapper over the NHS E-Referral Service
 * REST API wrapper over the NHS E-Prescriptions Service
 * National Poisons Information Service ([TOXBASE](https://www.toxbase.org/)) as a REST API to allow embedding into clinical applications.
+* Electronic Staff Record API
 
 ## Staff Registers
 * GMC Register API - get information about practicing doctors programmatically, including information about specialist status. Real-time confirmation of current valid registration.
@@ -34,6 +35,7 @@
 * GP Practices register API
 * Pharmacies register API
 * Independent care providers API
+* Care Homes register API - UUID of the care home & providing details of the type of care available, capacity, current availability, and facilities.
 
 ## Health 'MapIt'
 * MapIt by MySociety simplifies the use of geospatial information and enables easy creation of map layers or overlays reflecting open data and administrative boundaries
