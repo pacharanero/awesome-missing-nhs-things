@@ -7,7 +7,7 @@
 * ['Gravatar' for patient photos](https://github.com/pacharanero/awesome-missing-nhs-things/issues/1)
 * 'KeyBase' for clinical staff
 * Ambulance Booking API
-* [National Consent Platform]()
+* National Consent Platform
 * REST API wrapper over the NHS E-Referral Service
 * REST API wrapper over the NHS E-Prescriptions Service
 * National Poisons Information Service ([TOXBASE](https://www.toxbase.org/)) as a REST API to allow embedding into clinical applications.
