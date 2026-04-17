@@ -84,7 +84,7 @@
 
 ## Frameworks and Libraries
 
-* NHS Common User Interface (or the good bits of it) implemented as a CSS-class-based web UI framework that can be dropped into new or existing web applications, lending them an instant UI which is ready clinically-, usability- and accessibility-tested.
+* NHS Common User Interface (or the good bits of it) implemented as a CSS-class-based web UI framework that can be dropped into new or existing web applications, lending them an instant UI which is ready clinically-, usability- and accessibility-tested. The "Twitter Bootstrap of Medicine".
 * [The NHS Frontend Framework](https://github.com/nhsuk/nhsuk-frontend) admirably shows how this works in practice, but their focus is in creating nice, accessible, NHS websites. We need to take this principle and start sharing the UI components of good clinical software.
 * Family Tree Diagrams as a parsable markdown dialect
 * 'off the shelf' Anatomical and Body Structure diagrams that can be embedded into clinical systems, with terminology bindings which allow SNOMED-CT Body Structure codes (and other terminologies) to be chosen by clicking on the diagrams.
